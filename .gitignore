@@ -6,3 +6,4 @@ bin-release
 bin
 docs
 *.swf
+*.scc
