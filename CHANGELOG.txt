@@ -1,3 +1,9 @@
+
+
+	test
+
+
+
 - Fixed bug in MultiScaleImage component for both Flash and Flex where setting
   the source property with the same value twice caused the image to disappear.
   -- Thanks to Claudius for reporting this.
